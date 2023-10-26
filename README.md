@@ -6,4 +6,4 @@
 ## 课程列表
 
 - [从向量机到卷积神经网络]()
-- [大模型]()
+- [AIGC 和大模型](docs/foundation-models-aigc.md)
